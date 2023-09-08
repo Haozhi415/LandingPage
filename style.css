@@ -33,6 +33,7 @@ body {
     color: white;
     list-style: none;
     margin-right: 10px;
+    align-items: center;
 }
 
 #fb, #ig, #twitter {
