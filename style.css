@@ -39,6 +39,15 @@ body {
     transition: text-shadow 1s;
 }
 
+#fb::before, #ig::before, #twitter::before {
+    display: inline;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
 #fb:hover, #ig:hover, #twitter:hover {
     font-weight: bold;
     text-shadow: 1px 0 white;
