@@ -40,7 +40,6 @@ body {
 #fb, #ig, #twitter {
     display: flex;
     align-items: center;
-    height: 60px;
     margin-left: 10px;
     margin-right: 10px;
     padding-left: 5px;
