@@ -38,6 +38,11 @@ body {
     margin-right: 10px;
 }
 
+#fb:hover, #ig:hover, #twitter:hover {
+    background-color: red;
+}
+
+
 a {
     text-decoration: none;
     color: white;
