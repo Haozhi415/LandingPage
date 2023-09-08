@@ -34,14 +34,12 @@ body {
 }
 
 #fb, #ig, #twitter {
-    height: 100%;
-    width: 100px;
     margin-left: 10px;
     margin-right: 10px;
 }
 
 #fb:hover, #ig:hover, #twitter:hover {
-    background-color: red;
+    font-weight: bold;
 }
 
 
