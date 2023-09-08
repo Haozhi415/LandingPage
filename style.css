@@ -36,12 +36,12 @@ body {
 #fb, #ig, #twitter {
     margin-left: 10px;
     margin-right: 10px;
-    transition: font-weight 0.3s;
+    letter-spacing: 0.5px;
 }
 
 #fb:hover, #ig:hover, #twitter:hover {
     font-weight: bold;
-    transition: font-weight 0.3s;
+    letter-spacing: 0;
 }
 
 
