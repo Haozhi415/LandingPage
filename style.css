@@ -39,7 +39,6 @@ body {
 }
 
 #fb:hover, #ig:hover, #twitter:hover {
-    font-weight: bold;
     text-shadow:0 0 5px white;
 }
 
